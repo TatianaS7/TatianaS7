@@ -23,12 +23,13 @@ minds and develop as a newcomer in this field.
 
 **‼️ Looking for help with‼️**<br/>
 [Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive) | Digital Asset Manager 
-  - I'm interested in implementing an image upload feature that stores the images on to a cloud platform, while providing a thumbnail of the image on the Frontend and associated with print data in database
+  - I'm interested in implementing an image upload feature that stores the images on to a cloud platform, while providing a thumbnail of the image on the Frontend and is associated with print data in database
 
-**My Portfolio** <br/>
-[Code Portfolio](https://mv-open-swe-9.github.io/html-project-TatianaS7/)<br/>
+<h3>My Portfolio</h3>
 
-<br/>Fun fact, **I'm also an artist** and created an art portfolio as my first project! <br/>
+[Code Portfolio](https://mv-open-swe-9.github.io/html-project-TatianaS7/)
+
+Fun fact, **I'm also an artist** and created an art portfolio as my first project! <br/>
 🎨[Art Portfolio](https://tanxtdr.com)🎨
 
 <h3 align="left">Connect with me:</h3>
