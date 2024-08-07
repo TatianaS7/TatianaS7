@@ -11,25 +11,25 @@ Backend Development on my own with MySQL and Node to build out uCreate while uti
 **McKinsey & Company** for Software Engineering. I've learned about the SDLC and what it takes to be a Software Engineer, beyond just building what you want. I'm excited to have the opportunity to learn from some of the best
 minds and develop as a newcomer in this field. 
 
-**🔭 I’m currently working on** <br/>
+**🔭 I’m currently working on** 🔭<br/>
   - [Tastebudz Recipes](https://github.com/TatianaS7/tastebudz-recipes) | Recipe Exploration, Share in Private or Public Groups
   - [Chroma](https://github.com/natali-a-lvarez/Chroma) | Palette Generator & Color Picker<br/>
 
-**🌱 Skills in Queue**
+**🌱 Skills in Queue** 🌱
   - Docker
   - Next.js
   - AWS
   - TypeScript<br/>
 
 **‼️ Looking for help with‼️**<br/>
-[Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive) | Asset Manager
+[Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive) | Digital Asset Manager 
   - I'm interested in implementing an image upload feature that stores the images on to a cloud platform, while providing a thumbnail of the image on the Frontend and associated with print data in database
 
 **My Portfolio** <br/>
 [Code Portfolio](https://mv-open-swe-9.github.io/html-project-TatianaS7/)<br/>
 
 <br/>Fun fact, **I'm also an artist** and created an art portfolio as my first project! <br/>
-[Art Portfolio](https://tanxtdr.com)
+🎨[Art Portfolio](https://tanxtdr.com)🎨
 
 <h3 align="left">Connect with me:</h3>
 <p>Email: tatiana.stewart55@gmail.com </p>
