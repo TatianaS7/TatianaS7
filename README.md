@@ -3,7 +3,7 @@
 
 I made my transition to Software Engineering after majoring in Business Administration and not really feeling fulfilled with what I was doing. I knew I wanted to start some business of my own, 
 but found myself more focused on the technical aspects like what the web designs and apps would be like. This prompted me to look into other creative career paths, leading me to User Experience Design (UXD). I realized that I had essentially been creating wireframes and focusing on user requirements before I even knew what it was. In August 2021, I took a 6-month 
-course through eCornell, and began the UX aspect of my passion project, [uCreate](https://github.com/TatianaS7/uCreate). Upon completion of this course, I decided I wanted to take it a step further and learn how to code and develop 
+course through **eCornell**, and began the UX aspect of my passion project, [uCreate](https://github.com/TatianaS7/uCreate). Upon completion of this course, I decided I wanted to take it a step further and learn how to code and develop 
 this platform myself. 
 
 In January 2023, I started a bootcamp through **Year Up** x **Pluralsight**, focusing on Frontend Development, and worked on some more projects with some other talented developers. I started exploring
