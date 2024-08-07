@@ -12,7 +12,7 @@ Backend Development on my own with MySQL and Node to build out uCreate while uti
 minds and develop as a newcomer in this field. 
 
 **🔭 I’m currently working on** 🔭<br/>
-  - [Tastebudz Recipes](https://github.com/TatianaS7/tastebudz-recipes) | Recipe Exploration, Share in Private or Public Groups
+  - [Tastebudz Recipes](https://github.com/TatianaS7/tastebudz-recipes) | Explore, Create, Save, or Share Recipes in Private and Public Groups
   - [Chroma](https://github.com/natali-a-lvarez/Chroma) | Palette Generator & Color Picker<br/>
 
 **🌱 Skills in Queue** 🌱
