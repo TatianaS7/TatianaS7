@@ -13,17 +13,8 @@ minds and develop as a newcomer in this field.
 
 **🔭 I’m currently working on** 🔭<br/>
   - [Tastebudz Recipes](https://github.com/TatianaS7/tastebudz-recipes) | Explore, Create, Save, or Share Recipes in Private and Public Groups
-  - [Chroma](https://github.com/natali-a-lvarez/Chroma) | Palette Generator & Color Picker<br/>
-
-**🌱 Skills in Queue** 🌱
-  - Docker
-  - Next.js
-  - AWS
-  - TypeScript<br/>
-
-**‼️ Looking for help with‼️**<br/>
-[Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive) | Digital Asset Manager 
-  - I'm interested in implementing an image upload feature that stores the images on to a cloud platform, while providing a thumbnail of the image on the Frontend and is associated with print data in database
+  - [Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive) | Digital Asset Manager 
+ 
 
 <h3>My Portfolio</h3>
 
