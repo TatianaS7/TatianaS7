@@ -1,29 +1,24 @@
-<h1>Hi, I'm Tatiana!</h1>
-<h3>I'm a Fullstack Software Engineer</h3>
+# Hi, I'm Tatiana! 👋
+### Fullstack Software Engineer
 
-I made my transition to Software Engineering after majoring in Business Administration and not really feeling fulfilled with what I was doing. I knew I wanted to start some business of my own, 
-but found myself more focused on the technical aspects like what the web designs and apps would be like. This prompted me to look into other creative career paths, leading me to User Experience Design (UXD). I realized that I had essentially been creating wireframes and focusing on user requirements before I even knew what it was. In August 2021, I took a 6-month 
-course through **eCornell**, and began the UX aspect of my passion project, [uCreate](https://github.com/TatianaS7/uCreate). Upon completion of this course, I decided I wanted to take it a step further and learn how to code and develop 
-this platform myself. 
+I transitioned to Software Engineering after majoring in Business Administration, only to realize that my true passion was in the technical side of things—particularly in web design and app development. I found myself more excited about the possibilities of how a platform would look and work, rather than the business side of things. This led me to explore **User Experience Design (UXD)**, where I discovered that I had been naturally creating wireframes and focusing on user requirements long before I knew what UXD was.
 
-In January 2023, I started a bootcamp through **Year Up** x **Pluralsight**, focusing on Frontend Development, and worked on some more projects with some other talented developers. I started exploring
-Backend Development on my own with MySQL and Node to build out uCreate while utilizing the Frontend skills I gained in my bootcamp. Fastforward to January 2024, I started an apprenticeship through **Multiverse** x 
-**McKinsey & Company** for Software Engineering. I've learned about the SDLC and what it takes to be a Software Engineer, beyond just building what you want. I'm excited to have the opportunity to learn from some of the best
-minds and develop as a newcomer in this field. 
+In **August 2021**, I took a 6-month course through **eCornell**, where I further honed my UXD skills and applied them to my passion project, [uCreate](https://github.com/TatianaS7/uCreate). This course inspired me to take things to the next level and learn how to **code** so I could develop the platform myself.
 
-**🔭 I’m currently working on** 🔭<br/>
-  - [Tastebudz Recipes](https://github.com/TatianaS7/tastebudz-recipes) | Explore, Create, Save, or Share Recipes in Private and Public Groups
-  - [Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive) | Digital Asset Manager 
- 
+In **January 2023**, I joined a **bootcamp** through **Year Up** and **Pluralsight**, focusing on Frontend Development. During the bootcamp, I worked on several projects with a team of talented developers. I then ventured into **Backend Development** on my own, exploring **MySQL** and **Node.js** to further build out **uCreate** while applying my Frontend skills.
 
-<h3>My Portfolio</h3>
+Fast forward to **January 2024**, I began an apprenticeship through **Multiverse** and **McKinsey & Company** in **Software Engineering**. This experience has deepened my understanding of the **Software Development Life Cycle (SDLC)** and the collaborative, thoughtful process of building software beyond just the coding aspect. I am thrilled to be learning from some of the brightest minds in the industry!
 
-[Code Portfolio](https://mv-open-swe-9.github.io/html-project-TatianaS7/)
+### 🚀 Current Projects
+- **[Tastebudz Recipes](https://github.com/TatianaS7/tastebudz-recipes)**: Explore, Create, Save, or Share Recipes in Private and Public Groups
+- **[Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive)**: Digital Asset Manager for Organizing and Managing Art and Media Files
 
-Fun fact, **I'm also an artist** and created an art portfolio as my first project! <br/>
-🎨[Art Portfolio](https://tanxtdr.com)🎨
+### 💼 Portfolio
+Check out my [**Code Portfolio**](https://tatianastewart.onrender.com/about)
 
-<h3 align="left">Connect with me:</h3>
-<p>Email: tatiana.stewart55@gmail.com </p>
-<p align="left">
-</p><br/>
+Fun fact: I'm also an artist! 🎨 My first project was creating my own **[Art Portfolio](https://tanxtdr.com)** to showcase my creative work alongside my development journey.
+
+### 📬 Let's Connect!
+- **Email**: [tatiana.stewart55@gmail.com](mailto:tatiana.stewart55@gmail.com)
+
+Looking forward to connecting and collaborating!
