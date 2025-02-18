@@ -10,6 +10,7 @@ In **January 2023**, I joined a **bootcamp** through **Year Up** and **Pluralsig
 Fast forward to **January 2024**, I began an apprenticeship through **Multiverse** and **McKinsey & Company** in **Software Engineering**. This experience has deepened my understanding of the **Software Development Life Cycle (SDLC)** and the collaborative, thoughtful process of building software beyond just the coding aspect. I am thrilled to be learning from some of the brightest minds in the industry!
 
 ### 🚀 Current Projects
+- **[Shelter Project](https://github.com/TatianaS7/shelter-project)**: Streamlining donations by connecting donors with shelters for efficient resource distribution.
 - **[Tastebudz Recipes](https://github.com/TatianaS7/tastebudz-recipes)**: Explore, Create, Save, or Share Recipes in Private and Public Groups
 - **[Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive)**: Digital Asset Manager for Organizing and Managing Art and Media Files
 
