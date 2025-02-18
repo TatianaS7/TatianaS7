@@ -15,7 +15,7 @@ Fast forward to **January 2024**, I began an apprenticeship through **Multiverse
 - **[Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive)**: Digital Asset Manager for Organizing and Managing Art and Media Files
 
 ### 💼 Portfolio
-Check out my [**Code Portfolio**](https://tatianastewart.onrender.com/about)
+Check out my [**Code Portfolio**](https://tatianastewart.onrender.com)
 
 Fun fact: I'm also an artist! 🎨 My first project was creating my own **[Art Portfolio](https://tanxtdr.com)** to showcase my creative work alongside my development journey.
 
