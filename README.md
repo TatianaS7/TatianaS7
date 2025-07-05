@@ -11,7 +11,6 @@ Fast forward to **January 2024**, I began an apprenticeship through **Multiverse
 
 ### 🚀 Current Projects
 - **[Shelter Project](https://github.com/TatianaS7/shelter-project)**: Streamlining donations by connecting donors with shelters for efficient resource distribution.
-- **[Tastebudz Recipes](https://github.com/TatianaS7/tastebudz-recipes)**: Explore, Create, Save, or Share Recipes in Private and Public Groups
 - **[Chuck Stewart Archive](https://github.com/TatianaS7/chuck-stewart-archive)**: Digital Asset Manager for Organizing and Managing Art and Media Files
 
 ### 💼 Portfolio
